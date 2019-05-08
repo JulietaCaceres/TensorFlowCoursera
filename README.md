@@ -1,2 +1,3 @@
-# DeepLearningKaggleCourse
-In this repository I will upload the exercises corresponding to the Deep Learning  Kaggle Course.
+# Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. 
+In this repository I will upload the exercises corresponding to course in 
+Coursera.
